@@ -17,4 +17,4 @@
 
 ---
 
-⭐️ From Manjunath(https://github.com/manjunathever)
+⭐️ From [Manjunath](https://github.com/manjunathever)
