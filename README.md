@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Manjunath!
 
-<!--
-**manjunathever/manjunathever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🎓 About Me
+- 🎓 CS Undergrad at **SASTRA Deemed University**, Thanjavur.
+- 🌱 Currently exploring **Web Development**.
+- 💻 Passionate about building scalable and efficient applications.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- **Languages**: C++, Python, JavaScript
+- **Frontend**: React, HTML, CSS
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB
+- **Full Stack**: MERN (MongoDB, Express.js, React, Node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Let's Connect
+- 📫 Reach me at: manjunathunofficial@gmail.com
+
+---
+
+⭐️ From Manjunath(https://github.com/manjunathever)
